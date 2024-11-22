@@ -1,0 +1,12 @@
+C:\workspace\opendental\UpdateFileCopier\bin\Debug\UpdateFileCopier.exe.config
+C:\workspace\opendental\UpdateFileCopier\bin\Debug\UpdateFileCopier.exe
+C:\workspace\opendental\UpdateFileCopier\bin\Debug\UpdateFileCopier.pdb
+C:\workspace\opendental\UpdateFileCopier\obj\Debug\UpdateFileCopier.csproj.AssemblyReference.cache
+C:\workspace\opendental\UpdateFileCopier\obj\Debug\UpdateFileCopier.csproj.SuggestedBindingRedirects.cache
+C:\workspace\opendental\UpdateFileCopier\obj\Debug\UpdateFileCopier.MsgBoxCopyPaste.resources
+C:\workspace\opendental\UpdateFileCopier\obj\Debug\UpdateFileCopier.FormMain.resources
+C:\workspace\opendental\UpdateFileCopier\obj\Debug\UpdateFileCopier.Properties.Resources.resources
+C:\workspace\opendental\UpdateFileCopier\obj\Debug\UpdateFileCopier.csproj.GenerateResource.cache
+C:\workspace\opendental\UpdateFileCopier\obj\Debug\UpdateFileCopier.csproj.CoreCompileInputs.cache
+C:\workspace\opendental\UpdateFileCopier\obj\Debug\UpdateFileCopier.exe
+C:\workspace\opendental\UpdateFileCopier\obj\Debug\UpdateFileCopier.pdb
