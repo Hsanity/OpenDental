@@ -12,6 +12,6 @@ C:\workspace\opendental\OpenDentalCloud\bin\Debug\VBbridges.dll
 C:\workspace\opendental\OpenDentalCloud\bin\Debug\CodeBase.pdb
 C:\workspace\opendental\OpenDentalCloud\obj\x86\Debug\OpenDentalCloud.csproj.AssemblyReference.cache
 C:\workspace\opendental\OpenDentalCloud\obj\x86\Debug\OpenDentalCloud.csproj.CoreCompileInputs.cache
-C:\workspace\opendental\OpenDentalCloud\obj\x86\Debug\OpenDentalCloud.csproj.CopyComplete
+C:\workspace\opendental\OpenDentalCloud\obj\x86\Debug\OpenDent.75ABB740.Up2Date
 C:\workspace\opendental\OpenDentalCloud\obj\x86\Debug\OpenDentalCloud.dll
 C:\workspace\opendental\OpenDentalCloud\obj\x86\Debug\OpenDentalCloud.pdb

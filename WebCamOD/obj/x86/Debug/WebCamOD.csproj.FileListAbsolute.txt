@@ -84,6 +84,6 @@ C:\workspace\opendental\WebCamOD\obj\x86\Debug\ProximityOD.FormProximityOD.resou
 C:\workspace\opendental\WebCamOD\obj\x86\Debug\ProximityOD.Properties.Resources.resources
 C:\workspace\opendental\WebCamOD\obj\x86\Debug\WebCamOD.csproj.GenerateResource.cache
 C:\workspace\opendental\WebCamOD\obj\x86\Debug\WebCamOD.csproj.CoreCompileInputs.cache
-C:\workspace\opendental\WebCamOD\obj\x86\Debug\WebCamOD.csproj.CopyComplete
+C:\workspace\opendental\WebCamOD\obj\x86\Debug\WebCamOD.csproj.Up2Date
 C:\workspace\opendental\WebCamOD\obj\x86\Debug\ProximityOD.exe
 C:\workspace\opendental\WebCamOD\obj\x86\Debug\ProximityOD.pdb

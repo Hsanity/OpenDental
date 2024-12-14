@@ -100,6 +100,6 @@ C:\workspace\opendental\OpenDentalGraph\obj\x86\Debug\OpenDentalGraph.FormDashbo
 C:\workspace\opendental\OpenDentalGraph\obj\x86\Debug\OpenDentalGraph.Properties.Resources.resources
 C:\workspace\opendental\OpenDentalGraph\obj\x86\Debug\OpenDentalGraph.csproj.GenerateResource.cache
 C:\workspace\opendental\OpenDentalGraph\obj\x86\Debug\OpenDentalGraph.csproj.CoreCompileInputs.cache
-C:\workspace\opendental\OpenDentalGraph\obj\x86\Debug\OpenDentalGraph.csproj.CopyComplete
+C:\workspace\opendental\OpenDentalGraph\obj\x86\Debug\OpenDent.78607EBA.Up2Date
 C:\workspace\opendental\OpenDentalGraph\obj\x86\Debug\OpenDentalGraph.dll
 C:\workspace\opendental\OpenDentalGraph\obj\x86\Debug\OpenDentalGraph.pdb

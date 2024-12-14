@@ -1,0 +1,26 @@
+﻿  pch.cpp
+  D2DWrapperHwnd.cpp
+C:\workspace\opendental\Direct2dWrapper\D2DWrapperHwnd.cpp(508,82): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\workspace\opendental\Direct2dWrapper\D2DWrapperHwnd.cpp(508,63): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\workspace\opendental\Direct2dWrapper\D2DWrapperHwnd.cpp(508,48): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\workspace\opendental\Direct2dWrapper\D2DWrapperHwnd.cpp(508,40): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\workspace\opendental\Direct2dWrapper\D2DWrapperHwnd.cpp(511,69): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\workspace\opendental\Direct2dWrapper\D2DWrapperHwnd.cpp(511,67): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\workspace\opendental\Direct2dWrapper\D2DWrapperHwnd.cpp(520,78): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\workspace\opendental\Direct2dWrapper\D2DWrapperHwnd.cpp(520,70): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\workspace\opendental\Direct2dWrapper\D2DWrapperHwnd.cpp(520,67): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\workspace\opendental\Direct2dWrapper\D2DWrapperHwnd.cpp(520,65): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\workspace\opendental\Direct2dWrapper\D2DWrapperHwnd.cpp(536,74): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\workspace\opendental\Direct2dWrapper\D2DWrapperHwnd.cpp(536,66): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\workspace\opendental\Direct2dWrapper\D2DWrapperHwnd.cpp(536,63): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\workspace\opendental\Direct2dWrapper\D2DWrapperHwnd.cpp(536,61): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+  Direct2dWrapper.cpp
+  dllmain.cpp
+     Creating library C:\workspace\opendental\Direct2dWrapper\bin\Direct2dWrapper.lib and object C:\workspace\opendental\Direct2dWrapper\bin\Direct2dWrapper.exp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 397 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Direct2dWrapper.vcxproj -> C:\workspace\opendental\Direct2dWrapper\bin\Direct2dWrapper.dll
+  C:\workspace\opendental\Direct2dWrapper\bin\Direct2dWrapper.dll
+  1 File(s) copied

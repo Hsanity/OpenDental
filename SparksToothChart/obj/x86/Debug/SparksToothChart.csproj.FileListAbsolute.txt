@@ -94,6 +94,6 @@ C:\workspace\opendental\SparksToothChart\obj\x86\Debug\SparksToothChart.ToothCha
 C:\workspace\opendental\SparksToothChart\obj\x86\Debug\SparksToothChart.ToothChartDirectX.resources
 C:\workspace\opendental\SparksToothChart\obj\x86\Debug\SparksToothChart.csproj.GenerateResource.cache
 C:\workspace\opendental\SparksToothChart\obj\x86\Debug\SparksToothChart.csproj.CoreCompileInputs.cache
-C:\workspace\opendental\SparksToothChart\obj\x86\Debug\SparksToothChart.csproj.CopyComplete
+C:\workspace\opendental\SparksToothChart\obj\x86\Debug\SparksTo.49F64992.Up2Date
 C:\workspace\opendental\SparksToothChart\obj\x86\Debug\SparksToothChart.dll
 C:\workspace\opendental\SparksToothChart\obj\x86\Debug\SparksToothChart.pdb

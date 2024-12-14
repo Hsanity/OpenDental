@@ -93,6 +93,6 @@ C:\workspace\opendental\OpenDentBusiness\obj\x86\Debug\OpenDental.UI.ODGridPageN
 C:\workspace\opendental\OpenDentBusiness\obj\x86\Debug\OpenDental.UI.SignatureBoxWrapper.resources
 C:\workspace\opendental\OpenDentBusiness\obj\x86\Debug\OpenDentBusiness.csproj.GenerateResource.cache
 C:\workspace\opendental\OpenDentBusiness\obj\x86\Debug\OpenDentBusiness.csproj.CoreCompileInputs.cache
-C:\workspace\opendental\OpenDentBusiness\obj\x86\Debug\OpenDentBusiness.csproj.CopyComplete
+C:\workspace\opendental\OpenDentBusiness\obj\x86\Debug\OpenDent.A58A7E16.Up2Date
 C:\workspace\opendental\OpenDentBusiness\obj\x86\Debug\OpenDentBusiness.dll
 C:\workspace\opendental\OpenDentBusiness\obj\x86\Debug\OpenDentBusiness.pdb

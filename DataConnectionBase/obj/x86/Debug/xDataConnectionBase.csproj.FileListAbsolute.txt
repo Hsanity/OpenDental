@@ -15,6 +15,6 @@ C:\workspace\opendental\DataConnectionBase\bin\Debug\System.Buffers.dll
 C:\workspace\opendental\DataConnectionBase\bin\Debug\CodeBase.pdb
 C:\workspace\opendental\DataConnectionBase\obj\x86\Debug\xDataConnectionBase.csproj.AssemblyReference.cache
 C:\workspace\opendental\DataConnectionBase\obj\x86\Debug\xDataConnectionBase.csproj.CoreCompileInputs.cache
-C:\workspace\opendental\DataConnectionBase\obj\x86\Debug\xDataConnectionBase.csproj.CopyComplete
+C:\workspace\opendental\DataConnectionBase\obj\x86\Debug\xDataCon.E65B0517.Up2Date
 C:\workspace\opendental\DataConnectionBase\obj\x86\Debug\DataConnectionBase.dll
 C:\workspace\opendental\DataConnectionBase\obj\x86\Debug\DataConnectionBase.pdb

@@ -83,6 +83,6 @@ C:\workspace\opendental\OpenDentHL7\obj\x86\Debug\OpenDentHL7.exe.config
 C:\workspace\opendental\OpenDentHL7\obj\x86\Debug\OpenDentHL7.FormDebug.resources
 C:\workspace\opendental\OpenDentHL7\obj\x86\Debug\OpenDentHL7.csproj.GenerateResource.cache
 C:\workspace\opendental\OpenDentHL7\obj\x86\Debug\OpenDentHL7.csproj.CoreCompileInputs.cache
-C:\workspace\opendental\OpenDentHL7\obj\x86\Debug\OpenDentHL7.csproj.CopyComplete
+C:\workspace\opendental\OpenDentHL7\obj\x86\Debug\OpenDent.4936943D.Up2Date
 C:\workspace\opendental\OpenDentHL7\obj\x86\Debug\OpenDentHL7.exe
 C:\workspace\opendental\OpenDentHL7\obj\x86\Debug\OpenDentHL7.pdb

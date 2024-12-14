@@ -10,7 +10,6 @@
 //------------------------------------------------------------------------------
 
 using OpenDental;
-using OpenDental.UI;
 using System;
 using System.Diagnostics;
 using System.Windows;

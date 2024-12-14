@@ -79,6 +79,6 @@ C:\workspace\opendental\UnitTestsCore\bin\Debug\OpenDentalCloud.pdb
 C:\workspace\opendental\UnitTestsCore\bin\Debug\PasswordVaultWrapper.pdb
 C:\workspace\opendental\UnitTestsCore\obj\x86\Debug\UnitTestsCore.csproj.AssemblyReference.cache
 C:\workspace\opendental\UnitTestsCore\obj\x86\Debug\UnitTestsCore.csproj.CoreCompileInputs.cache
-C:\workspace\opendental\UnitTestsCore\obj\x86\Debug\UnitTestsCore.csproj.CopyComplete
+C:\workspace\opendental\UnitTestsCore\obj\x86\Debug\UnitTest.56AE3600.Up2Date
 C:\workspace\opendental\UnitTestsCore\obj\x86\Debug\UnitTestsCore.dll
 C:\workspace\opendental\UnitTestsCore\obj\x86\Debug\UnitTestsCore.pdb

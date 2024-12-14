@@ -15,11 +15,10 @@ C:\workspace\opendental\DatabaseIntegrityCheck\bin\Debug\System.Numerics.Vectors
 C:\workspace\opendental\DatabaseIntegrityCheck\bin\Debug\System.Buffers.dll
 C:\workspace\opendental\DatabaseIntegrityCheck\bin\Debug\CodeBase.pdb
 C:\workspace\opendental\DatabaseIntegrityCheck\obj\x86\Debug\xDatabaseIntegrityCheck.csproj.AssemblyReference.cache
-C:\workspace\opendental\DatabaseIntegrityCheck\obj\x86\Debug\xDatabaseIntegrityCheck.csproj.SuggestedBindingRedirects.cache
 C:\workspace\opendental\DatabaseIntegrityCheck\obj\x86\Debug\DatabaseIntegrityCheck.FormDatabaseCheck.resources
 C:\workspace\opendental\DatabaseIntegrityCheck\obj\x86\Debug\DatabaseIntegrityCheck.Properties.Resources.resources
 C:\workspace\opendental\DatabaseIntegrityCheck\obj\x86\Debug\xDatabaseIntegrityCheck.csproj.GenerateResource.cache
 C:\workspace\opendental\DatabaseIntegrityCheck\obj\x86\Debug\xDatabaseIntegrityCheck.csproj.CoreCompileInputs.cache
-C:\workspace\opendental\DatabaseIntegrityCheck\obj\x86\Debug\xDatabaseIntegrityCheck.csproj.CopyComplete
+C:\workspace\opendental\DatabaseIntegrityCheck\obj\x86\Debug\xDatabas.C5054B2E.Up2Date
 C:\workspace\opendental\DatabaseIntegrityCheck\obj\x86\Debug\DatabaseIntegrityCheck.exe
 C:\workspace\opendental\DatabaseIntegrityCheck\obj\x86\Debug\DatabaseIntegrityCheck.pdb

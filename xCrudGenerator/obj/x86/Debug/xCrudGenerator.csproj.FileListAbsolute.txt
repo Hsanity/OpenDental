@@ -84,6 +84,6 @@ C:\workspace\opendental\xCrudGenerator\obj\x86\Debug\xCrudGenerator.Form1.resour
 C:\workspace\opendental\xCrudGenerator\obj\x86\Debug\xCrudGenerator.Properties.Resources.resources
 C:\workspace\opendental\xCrudGenerator\obj\x86\Debug\xCrudGenerator.csproj.GenerateResource.cache
 C:\workspace\opendental\xCrudGenerator\obj\x86\Debug\xCrudGenerator.csproj.CoreCompileInputs.cache
-C:\workspace\opendental\xCrudGenerator\obj\x86\Debug\xCrudGenerator.csproj.CopyComplete
+C:\workspace\opendental\xCrudGenerator\obj\x86\Debug\xCrudGen.86C45A2E.Up2Date
 C:\workspace\opendental\xCrudGenerator\obj\x86\Debug\CrudGenerator.exe
 C:\workspace\opendental\xCrudGenerator\obj\x86\Debug\CrudGenerator.pdb

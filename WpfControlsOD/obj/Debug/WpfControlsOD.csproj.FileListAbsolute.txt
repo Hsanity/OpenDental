@@ -473,6 +473,6 @@ C:\workspace\opendental\WpfControlsOD\obj\Debug\OpenDental.FormSnap.resources
 C:\workspace\opendental\WpfControlsOD\obj\Debug\WpfControls.Properties.Resources.resources
 C:\workspace\opendental\WpfControlsOD\obj\Debug\WpfControlsOD.csproj.GenerateResource.cache
 C:\workspace\opendental\WpfControlsOD\obj\Debug\WpfControlsOD.csproj.CoreCompileInputs.cache
-C:\workspace\opendental\WpfControlsOD\obj\Debug\WpfControlsOD.csproj.CopyComplete
+C:\workspace\opendental\WpfControlsOD\obj\Debug\WpfContr.85B95A6F.Up2Date
 C:\workspace\opendental\WpfControlsOD\obj\Debug\WpfControlsOD.dll
 C:\workspace\opendental\WpfControlsOD\obj\Debug\WpfControlsOD.pdb

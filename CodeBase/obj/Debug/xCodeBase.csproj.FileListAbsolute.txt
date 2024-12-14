@@ -17,6 +17,6 @@ C:\workspace\opendental\CodeBase\obj\Debug\CodeBase.Properties.Resources.resourc
 C:\workspace\opendental\CodeBase\obj\Debug\CodeBase.MsgBoxCopyPaste.resources
 C:\workspace\opendental\CodeBase\obj\Debug\xCodeBase.csproj.GenerateResource.cache
 C:\workspace\opendental\CodeBase\obj\Debug\xCodeBase.csproj.CoreCompileInputs.cache
-C:\workspace\opendental\CodeBase\obj\Debug\xCodeBase.csproj.CopyComplete
+C:\workspace\opendental\CodeBase\obj\Debug\xCodeBase.csproj.Up2Date
 C:\workspace\opendental\CodeBase\obj\Debug\CodeBase.dll
 C:\workspace\opendental\CodeBase\obj\Debug\CodeBase.pdb
